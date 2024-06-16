@@ -1,1 +1,1 @@
-# summer-analytics-hackathon
+# Summer Analytics Hackathon
